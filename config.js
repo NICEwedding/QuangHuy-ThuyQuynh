@@ -5,7 +5,7 @@ const WEDDING_CONFIG = {
   groomName: "Quang Huy",
   brideName: "Thuý Quỳnh",
 
-  weddingDate: "2026-01-24 09:00",
+  weddingDate: "2026-01-24 08:00",
   location: "H4HV+W6M, Hồng An, Hưng Hà, Thái Bình",
 
   // link mở ngoài (mở app Google Maps trên điện thoại)
